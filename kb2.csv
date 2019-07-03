@@ -1,0 +1,17 @@
+﻿Animal,bacteria,virus,parasite,fungus,vagina,penis,anus,throat,eye,genital_area,mouth,stool,blood,lymph_nodes,skin,body_hair
+bacterial_vaginosis,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+chlamydia,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0
+genital_warts,0,1,0,0,1,1,1,1,0,1,1,0,0,0,0,0
+gonorrhea,1,0,0,0,1,1,1,1,1,0,0,0,0,0,0,0
+hepatitis_A,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+hepatitis_B,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+hepatitis_C,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+herpes,0,1,0,0,1,1,1,0,0,1,1,0,0,0,0,0
+hiv,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+lymphogranuloma_venereum,1,0,0,0,1,1,1,1,0,1,0,0,0,1,0,0
+molluscum_contagiosum,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+pubic_lice,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1
+scabies,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
+syphilis,1,0,0,0,1,1,1,1,0,1,0,0,0,0,1,0
+trichomoniasis,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0
+yeast,0,0,0,1,1,1,1,0,0,1,0,0,0,0,0,0
